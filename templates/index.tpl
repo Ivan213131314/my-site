@@ -9,7 +9,7 @@
 	<h2>{$site_name}</h2>
     {$author}<br>
     {$text}<br>
-    <p>Некий текст</p>
+    <p>Lorem </p>
 
 </body>
 </html>
